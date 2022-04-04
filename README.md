@@ -8,6 +8,6 @@
 3) python manage.py makemigrations
 5) python manage.py migrate
 7) python manage.py loaddata fixture/data.json
-### Что бы выгрузить данные из бд:
+### Чтобы выгрузить данные из бд:
 ./Pandora/Pandora
 1) python manage.py dumpdata >> fixture/data.json
